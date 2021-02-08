@@ -1,0 +1,33 @@
+.image{
+	height: 100%;
+	width: 100%;
+	
+
+}
+.row{
+	padding: 5px 10px;
+}
+.productInfo{
+	position: s relative;
+	background: #fff;
+	padding: 0px 10px;
+	box-shadow: border-box;
+	margin-top: 10px;
+	margin-left: 17px;
+	}
+.row{
+	background: #fff;
+}
+.productBrand{
+	font-size: 17px;
+	font-weight: 500;
+}
+del{
+	color: gray;
+}
+.discount{
+	color: red;
+}
+.discountPrice{
+	font-weight: 600;
+}

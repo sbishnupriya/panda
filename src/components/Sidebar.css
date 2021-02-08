@@ -1,0 +1,35 @@
+.sideNav{
+	box-shadow: 3px 4px 12px 5px rgba(0,0,0,.05);
+	background: white;
+	width: 226px;
+	height: 100%;
+	position: fixed;
+    z-index: 2;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+.filter{
+	font-size: 19px;
+	font-weight: 500;
+	margin: 10px 15px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+.itemList{
+	margin-left: 17px;
+}
+.brand{
+	margin: 15px 13px;
+	font-size: 19px;
+	font-weight: 500;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+.price{
+	margin: 15px 13px;
+	font-size: 19px;
+	font-weight: 500;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+
+}

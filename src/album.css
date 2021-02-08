@@ -1,0 +1,13 @@
+.image{
+	transition: rotate(50deg);
+	animation-name: spin;
+}
+
+	@keyframes spin {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(360deg);
+    }
+}
